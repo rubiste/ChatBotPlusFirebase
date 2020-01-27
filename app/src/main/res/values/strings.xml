@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chatbot PSP</string>
+    <string name="password">Password</string>
+    <string name="username">Correo</string>
+    <string name="recordar">Recordar</string>
+    <string name="login">Login</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nameApp">ChatBot</string>
+    <string name="emptyFields">Debes rellenar el usuario y la contraseña</string>
+    <string name="noMatches">El usuario o la contraseña son incorrectos</string>
+    <string name="registrarLogin">¿No tienes cuenta? Regístrate</string>
+    <string name="yaExiste">Este usuario o correo ya esta siendo usado</string>
+    <string name="errorCrearCuenta">Se ha producido un error al crear la cuenta, vuelva a intentarlo</string>
+    <string name="cuentaCreada">Se ha creado una nueva cuenta</string>
+    <string name="hableAlBot">Digale una frase al Bot</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="verHistorial">Ver historial</string>
+    <string name="introducirCorreo">Debe introducir un correo electronico</string>
+    <string name="fecha">Fecha</string>
+    <string name="emptyMsg">No se pueden mandar mensajes vacios</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211319198520",
+    "firebase_url": "https://chatbot-psp-con-voz.firebaseio.com",
+    "project_id": "chatbot-psp-con-voz",
+    "storage_bucket": "chatbot-psp-con-voz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211319198520:android:085fa5aadc0c83c727e7cd",
+        "android_client_info": {
+          "package_name": "com.example.chatbotpsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211319198520-g2nkhjlc6tllf0lb1993bpm4qd4gvbmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbotpsp",
+            "certificate_hash": "7b2ebc4f4872e6dcc6ca173bafa61335b2ebc9ea"
+          }
+        },
+        {
+          "client_id": "211319198520-8kovstf7rocn5p6f796cn0l5p95qk8no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYGazBkyp2yIJtYnwn2uGEVToXpiBbqbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211319198520-8kovstf7rocn5p6f796cn0l5p95qk8no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
