@@ -63,7 +63,11 @@ public class RegistrarActivity extends AppCompatActivity {
             if(!isEmailValid()){
                 Toast.makeText(this, getResources().getText(R.string.introducirCorreo), Toast.LENGTH_LONG).show();
             }else{
-                crearCuenta();
+                if(etPassword.length() < 6){
+                    Toast.makeText(this, getResources().getText(R.string.passwordMin), Toast.LENGTH_LONG).show();
+                }else{
+                    crearCuenta();
+                }
             }
         }
     }
