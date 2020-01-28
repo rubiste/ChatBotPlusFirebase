@@ -18,5 +18,5 @@
     <string name="introducirCorreo">Debe introducir un correo electronico</string>
     <string name="fecha">Fecha</string>
     <string name="emptyMsg">No se pueden mandar mensajes vacios</string>
-
+    <string name="passwordMin">La contraseña necesita tener al menos 6 caracteres</string>
 </resources>
